@@ -1,8 +1,8 @@
 *****|Welcome|***** https://khaledali.com
 ===KhaledAli_Novaler_Pro_online_flash=== https://khaledali.com
 ====|||KhakedAli_Backup|||==== https://khaledali.com
-01_OpenPli_wrynose_18_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-wrynose-novaler4kpro_18092026.zip
-02_Openatv_8.0_RC1_16_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-8.0.0-RC1-novaler4kpro_16092026.zip
+01_Openatv_8.0_RC1_20_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-8.0.0-RC1-novaler4kpro-20092026.zip
+02_OpenPli_wrynose_18_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-wrynose-novaler4kpro_18092026.zip
 03_Openbh_6.0.003_15_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openbh-6.0.003-novaler4kpro-15092026.zip
 04_Egami_11_R22_14_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/egami-11.0.r22-novaler4kpro-14092026.zip
 05_OpenVIX_6.9.003_13_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openvix-6.9.003-novaler4kpro-13092026.zip

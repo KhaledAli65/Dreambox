@@ -1,28 +1,28 @@
 ..
-===== WELCOME ===== https://khaledali.com
-=== KhaledAli Cloud ONLINE === https://khaledali.com
---- KhaledAli Backup --- https://khaledali.com
-> 01_OpenPli_Foxbob_22_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-PurE2-7.6-21092026.zip
-> 02_PurE2_7.6_21_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-PurE2-7.6-21092026.zip
-> 03_TeamBlue_8.0_21_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/teamblue-8.0-novaler4kpro-21092026.zip
-> 04_OpenATV_8.0_RC1_20_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-8.0.0-RC1-novaler4kpro-20092026.zip
-> 05_OpenSPA_8.7_20_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openspa-8.7.001-OEA-novaler4kpro-20092026.zip
-> 06_OpenPLi_Wrynose_18_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-wrynose-novaler4kpro_18092026.zip
-> 07_OpenBH_6.0.003_15_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openbh-6.0.003-novaler4kpro-15092026.zip
-> 08_Egami_11.0_R22_14_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/egami-11.0.r22-novaler4kpro-14092026.zip
-> 09_OpenVIX_6.9.003_13_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openvix-6.9.003-novaler4kpro-13092026.zip
-> 10_Hyperion_X3_15_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/zukonMOD_Hyperion-X.3-novaler4kpro_14092026.zip
-> 11_OpenATV_7.6_FULL_24_08_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-7.6.0-novaler4kpro-full_24082026.zip
-> 12_OpenATV_7.6_ARABIC https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-7.6.0-novaler4kpro-ARABIC-KhaledAli.zip
-=== Novaler PRO BOOT 5 === https://khaledali.com
-> 01_CorvoBoys_BOOT_5 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novalerpro_corvoboys_slot5.zip
-> 02_OpenPLi_9.2_BOOT_5 https://dl.dropboxusercontent.com/scl/fi/e1lj4zq1i77syl5omue5p/novalerpro_KhaledAli_slot5.zip?rlkey=4wnxt4vvtdthdh39gjp0suxc8&st=nc0t6ob7&dl=0
-=== Novaler PRO Android === https://khaledali.com
-> 01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android_8.0_multiboxpro_4k_20012025.zip
-> 02_Android_Senator https://www.novaler.com/uploads/flashes/Multiboxpro-H5D-Senator.zip
-> 03_Android_Golden https://www.novaler.com/uploads/flashes/Multiboxpro-STAR_NET_GOLDEN-2070.zip
-> 04_Android_WeZone https://www.novaler.com/uploads/flashes/Multiboxpro-WezoneM8.zip
-> 05_Android_QBox https://www.novaler.com/uploads/flashes/Multiboxpro-QBOX1.zip
-> 06_Android_ForTec https://www.novaler.com/uploads/flashes/Multiboxpro-FortecStar.zip
-=== Novaler PRO Recovery === https://khaledali.com
-> 01_Recovery_3.53_PRO https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-3.53_recovery.zip
+=====WELCOME===== https://khaledali.com
+===KhaledAli_Cloud_ONLINE=== https://khaledali.com
+---KhaledAli_Backup--- https://khaledali.com
+01_OpenPli_Foxbob_22_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-GCC-16.1-novaler4kpro-22092026.zip
+02_PurE2_7.6_21_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-PurE2-7.6-21092026.zip
+03_TeamBlue_8.0_21_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/teamblue-8.0-novaler4kpro-21092026.zip
+04_OpenATV_8.0_RC1_20_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-8.0.0-RC1-novaler4kpro-20092026.zip
+05_OpenSPA_8.7_20_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openspa-8.7.001-OEA-novaler4kpro-20092026.zip
+06_OpenPLi_Wrynose_18_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-wrynose-novaler4kpro_18092026.zip
+07_OpenBH_6.0.003_15_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openbh-6.0.003-novaler4kpro-15092026.zip
+08_Egami_11.0_R22_14_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/egami-11.0.r22-novaler4kpro-14092026.zip
+09_OpenVIX_6.9.003_13_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openvix-6.9.003-novaler4kpro-13092026.zip
+10_Hyperion_X3_15_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/zukonMOD_Hyperion-X.3-novaler4kpro_14092026.zip
+11_OpenATV_7.6_FULL_24_08_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-7.6.0-novaler4kpro-full_24082026.zip
+12_OpenATV_7.6_ARABIC https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-7.6.0-novaler4kpro-ARABIC-KhaledAli.zip
+===Novaler_PRO_BOOT_5=== https://khaledali.com
+01_CorvoBoys_BOOT_5 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novalerpro_corvoboys_slot5.zip
+02_OpenPLi_9.2_BOOT_5 https://dl.dropboxusercontent.com/scl/fi/e1lj4zq1i77syl5omue5p/novalerpro_KhaledAli_slot5.zip?rlkey=4wnxt4vvtdthdh39gjp0suxc8&st=nc0t6ob7&dl=0
+===Novaler_PRO_Android=== https://khaledali.com
+01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android_8.0_multiboxpro_4k_20012025.zip
+02_Android_Senator https://www.novaler.com/uploads/flashes/Multiboxpro-H5D-Senator.zip
+03_Android_Golden https://www.novaler.com/uploads/flashes/Multiboxpro-STAR_NET_GOLDEN-2070.zip
+04_Android_WeZone https://www.novaler.com/uploads/flashes/Multiboxpro-WezoneM8.zip
+05_Android_QBox https://www.novaler.com/uploads/flashes/Multiboxpro-QBOX1.zip
+06_Android_ForTec https://www.novaler.com/uploads/flashes/Multiboxpro-FortecStar.zip
+===Novaler_PRO_Recovery=== https://khaledali.com
+01_Recovery_3.53_PRO https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-3.53_recovery.zip

@@ -1,9 +1,9 @@
 ..
-WELCOME https://khaledali.com
-CLOUD https://khaledali.com
+WELCOME_FROM_KHALED_ALI https://khaledali.com
+CLOUD_NOVALER_PRO https://khaledali.com
 ----------
 BACKUP https://khaledali.com
-01_OpenPli_Foxbob_22_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-PurE2-7.6-21092026.zip
+01_OpenPli_Foxbob_22_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-GCC-16.1-novaler4kpro-22092026.zip
 02_PurE2_7.6_21_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-PurE2-7.6-21092026.zip
 03_TeamBlue_8.0_21_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/teamblue-8.0-novaler4kpro-21092026.zip
 04_Openatv_8.0_RC1_20_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-8.0.0-RC1-novaler4kpro-20092026.zip

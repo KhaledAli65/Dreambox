@@ -2,7 +2,7 @@
 =====WELCOME===== https://khaledali.com
 ===KhaledAli_Cloud_ONLINE=== https://khaledali.com
 ---KhaledAli_Backup--- https://khaledali.com
-01_OpenATV_8.0_RC2_28_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-8.0.0-RC2-novaler4kpro_27092026.zip
+01_OpenATV_8.0.1_04_10_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenATV-8.0.1-novaler4kpro-04102026.zip
 02_Egami_11.0_R22_28_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/egami-11.0-r22-novaler4kpro-28092026.zip
 03_OpenBH_6.0.003_28_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openbh-6.0.003-novaler4kpro-28092026.zip
 04_OpenVIX_6.9.003_28_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openvix-6.9.003-novaler4kpro-28092026.zip
@@ -12,8 +12,6 @@
 08_OpenSPA_8.7_20_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openspa-8.7.001-OEA-novaler4kpro-20092026.zip
 09_OpenPLi_Wrynose_18_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-wrynose-novaler4kpro_18092026.zip
 10_Hyperion_X3_15_09_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/zukonMOD_Hyperion-X.3-novaler4kpro_14092026.zip
-11_OpenATV_7.6_FULL https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-7.6.0-novaler4kpro-full_24082026.zip
-12_OpenATV_7.6_ARABIC https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openatv-7.6.0-novaler4kpro-ARABIC-KhaledAli.zip
 ===Novaler_PRO_BOOT_5=== https://khaledali.com
 01_CorvoBoys_BOOT_5 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novalerpro_corvoboys_slot5.zip
 02_OpenPLi_9.2_BOOT_5 https://dl.dropboxusercontent.com/scl/fi/e1lj4zq1i77syl5omue5p/novalerpro_KhaledAli_slot5.zip?rlkey=4wnxt4vvtdthdh39gjp0suxc8&st=nc0t6ob7&dl=0

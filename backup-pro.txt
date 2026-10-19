@@ -2,7 +2,7 @@
 =====WELCOME===== https://khaledali.com
 ===KhaledAli_Cloud_ONLINE_NovalerPro=== https://khaledali.com
 ---KhaledAli_Backup--- https://khaledali.com
-01_OpenVIX_6.9.006_19_10_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenViX-6.9.006-novalerpro_19102026.zip
+01_OpenVIX_6.9.006_19_10_2026 https://tinyurl.com/4z3pa6cc
 02_OpenBH_6.0.004_19_10_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenBh-6.0.004-novalerpro_19102026.zip
 03_PurE2_7.6_18_10_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/PurE2-7.6-novalerpro_18102026.zip
 04_Hyperion_X3_18_10_2026 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/Hyperion-X3-novalerpro_18102026.zip

@@ -13,7 +13,7 @@
 09_OpenPli_Foxbob_22_09_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openpli-GCC-16.1-novaler4kpro-22092026.zip
 10_TeamBlue_8.0_21_09_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/teamblue-8.0-novaler4kpro-21092026.zip
 ===Novaler_PRO_BOOT_5=== https://khaledali.com
-01_CorvoBoys_BOOT_5 https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novalerpro_corvoboys_slot5.zip
+01_CorvoBoys_BOOT_5 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novalerpro_corvoboys_slot5.zip
 02_OpenPLi_9.2_BOOT_5 https://dl.dropboxusercontent.com/scl/fi/e1lj4zq1i77syl5omue5p/novalerpro_KhaledAli_slot5.zip?rlkey=4wnxt4vvtdthdh39gjp0suxc8&st=nc0t6ob7&dl=0
 ===Novaler_PRO_Android=== https://khaledali.com
 01_Android_8_PRO https://www.novaler.com/uploads/flashes/Android_8.0_multiboxpro_4k_20012025.zip
@@ -23,4 +23,4 @@
 05_Android_QBox https://www.novaler.com/uploads/flashes/Multiboxpro-QBOX1.zip
 06_Android_ForTec https://www.novaler.com/uploads/flashes/Multiboxpro-FortecStar.zip
 ===Novaler_PRO_Recovery=== https://khaledali.com
-01_Recovery_3.53_PRO https://ghproxy.net/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-3.53_recovery.zip
+01_Recovery_3.53_PRO https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/novaler4kpro-3.53_recovery.zip

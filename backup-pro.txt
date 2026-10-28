@@ -2,8 +2,8 @@
 =====WELCOME===== https://khaledali.com
 ===KhaledAli_Cloud_ONLINE_NovalerPro=== https://khaledali.com
 ---KhaledAli_Backup--- https://khaledali.com
-01_OpenBH_6.0.005_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenBh-6.0.005-novaler4kpro_26102026.zip
-02_OpenATV_8.0.1_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenATV-8.0.1-novaler4kpro_26102026.zip
+01_OpenBH_6.0.005_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenBh-6.0.005-novaler4kpro_28102026.zip
+02_OpenATV_8.0.1_27_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenATV-8.0.1-novaler4kpro_28102026.zip
 03_OpenHDF_8.0_20_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/openHDF-8.0-novalerpro_20102026.zip
 04_TeamBlue_8.0_20_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/Teamblue-8.0-novalerpro_20102026.zip
 05_OpenPli_Foxbob_19_10_2026 https://gh-proxy.com/https://github.com/KhaledAli65/books/releases/download/Novalerpro/OpenPLi-GCC-16.1-novalerpro_19102026.zip
